@@ -1,0 +1,39 @@
+.calculator{
+  width: 400px;
+  height: 400px;
+  background-color: #d1d1d1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+padding: 30px;
+align-items: center;
+}
+.qator{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+button{
+  width: 80px;
+  height: 40px;
+  background-color:white;
+  color:red;
+border:2px solid green;
+font-weight: bolder;
+
+}
+#input1{
+  width:320px ;
+  height: 60px;
+  border:2px solid black;
+  font-size: 25px;
+  color:black;
+}
+.teng{
+  background-color:blue;
+}
+.body{
+  align-items:center;
+  display: flex;
+  justify-content: center;
+}
